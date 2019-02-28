@@ -17,7 +17,6 @@ This is a car made on Arduino Uno, called "*F1*".
 
 ---
 ### *Here's the Fritzing Scheme*
-![](Matrix_Game_Fritzing.jpg)
-
+![](Arduino_car.jpg)
 
 #### Take a look: 
