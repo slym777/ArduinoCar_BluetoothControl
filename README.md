@@ -18,7 +18,10 @@ This is a car made on Arduino Uno, called "*F1*".
 ---
 ### *Here's the Fritzing Scheme*
 ![](Arduino_car.jpg)
+---
 
+This car is controled by bluetooth, so that we are able to control it from any device which has a bluetooth. I used an android app, called RemoteXY ( you can easily find it in play market ). In order to create the interface to control F1 using RemoteXY app, I used the following link: *http://remotexy.com/en/editor/*. After customization, it generates a configuration code, which takes care of the graphics part, so now all you have to do is to add code so the car will work properly. Below you have a screen of my interface using RemoteXY app.
 
+![](Arduino_car.jpg)
 
-#### Take a look: 
+#### Take a look: https://drive.google.com/file/d/1R3Imn-t_oP-hi1OeOc_ysWdGH_Q578sQ/view?usp=sharing
