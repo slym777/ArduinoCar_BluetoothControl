@@ -23,5 +23,8 @@ This is a car made on Arduino Uno, called "*F1*".
 This car is controled by bluetooth, so that we are able to control it from any device which has a bluetooth. I used an android app, called RemoteXY ( you can easily find it in play market ). In order to create the interface to control F1 using RemoteXY app, I used the following link: *http://remotexy.com/en/editor/*. After customization, it generates a configuration code, which takes care of the graphics part, so now all you have to do is to code the car so the it will work properly. Also, download RemoteXY library and save it into the Arduino library folder. Below you have a screen of my interface using RemoteXY app.
 
 ![](RemoteXY_APP.png)
+ ---
+
+In my case I put a switch button, which will activate the police mode (blue and red leds), and the joystick with a G sensor enable/disable button. So that, user can choose to use either a joystick or the G sensor. I also added a buzzer, in order to generate sound for police mode, but didn't code it yet. Moreover, I'm planning to add a scale of speed, which will indicates the speed of the motors ( values form 0 to 100). That is why stay tuned for updates. 
 
 #### Take a look: https://drive.google.com/file/d/1R3Imn-t_oP-hi1OeOc_ysWdGH_Q578sQ/view?usp=sharing
